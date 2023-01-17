@@ -1,0 +1,11 @@
+node_modules
+instagram-clone/src/firebase.js
+instagram-clone/src/index.js
+instagram-clone/src/reportWebVitals.js
+instagram-clone/.firebaserc
+package-lock.json
+instagram-clone/public/index.html
+instagram-clone/src/index.css
+instagram-clone/public/manifest.json
+package.json
+instagram-clone/firebase.json
